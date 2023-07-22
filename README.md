@@ -5,10 +5,36 @@
 
 # Índice 
 * [Introdução](#Introdução)
-* [Sonoff](#Sonoff)
+* [Integração com o Ewelink ](#Integração-com-o-Ewelink)
 
+# Introdução
 
+Recentemente a Sonoff disponibilizou o modo DIY para os dispositivos se conectarem ao home Assistan.  https://sonoff.tech/product-review/how-sonoff-works-with-home-assistant/ entretanto esta funcionalidade será utilizada em outro tutorial.
 
+Os dispositivos Sonoff são uma linha de produtos de automação residencial desenvolvidos pela ITEAD, uma empresa especializada em eletrônica e IoT. Esses dispositivos são baseados em microcontroladores e geralmente contêm módulos de comunicação sem fio, como Wi-Fi ou RF (Radiofrequência).
+
+Cada dispositivo Sonoff é projetado para executar funções específicas, como interruptores inteligentes, tomadas inteligentes, relés de potência, sensores de movimento, termostatos, lâmpadas inteligentes e muito mais. Eles são projetados para serem facilmente integrados em redes domésticas existentes, permitindo que os usuários controlem e monitorem remotamente seus dispositivos e eletrodomésticos conectados por meio de smartphones, tablets ou computadores.
+
+Os dispositivos Sonoff podem ser controlados usando o App eWeLink, que fornece uma interface intuitiva para gerenciar os dispositivos. Além disso, esses dispositivos também podem ser integrados a outras plataformas de automação residencial e sistemas de gerenciamento de dispositivos IoT, como o Home Assistant, permitindo maior flexibilidade e personalização para os usuários.
+
+Uma característica importante dos dispositivos Sonoff é a capacidade de suportar modos de operação tanto na LAN (Local Area Network) quanto na nuvem. No modo LAN, os dispositivos podem ser controlados diretamente pela rede local, garantindo maior privacidade e desempenho mais rápido. Já no modo em nuvem, eles podem ser acessados através da internet, permitindo o controle remoto mesmo quando o usuário não está em casa.
+
+Essa flexibilidade e a ampla variedade de dispositivos Sonoff disponíveis tornam essa linha de produtos uma escolha popular para projetos de automação residencial e aplicações IoT, oferecendo uma solução eficiente e acessível para tornar as residências mais inteligentes e conectadas.
+
+# Integração com o Ewelink 
+
+<table border="0"><body><tr>
+<td style="width: 50%;"><img src="/img/fig01.png" width="50%" /></td></tr><tr>
+<td style="text-align: center;">Com o HACS instalado, vá em Integrações.
+</td></tr></body></table>
+
+Depois de instalado vá até o config e coloque no configuration.yaml:
+
+sonoff:
+   username: seuemail@seuemail.com
+   password: suasenha
+
+*Se a sua senha do Ewelink tiver @ vai ter problemas, retire o @ da sua senha, altere a senha.
 
 
 
