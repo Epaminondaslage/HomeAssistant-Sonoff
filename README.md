@@ -25,40 +25,31 @@ Essa flexibilidade e a ampla variedade de dispositivos Sonoff disponíveis torna
 
 <table border="0"><body><tr>
 <td style="width: 50%;"><img src="/img/fig01.png" width="50%" /></td></tr><tr>
-<td style="text-align: center;">Com o HACS instalado, vá em Integrações.</td></tr></body></table>
-
-
-<table border="0"><body><tr>
-<td style="width: 50%;"><img src="/img/fig01.png" width="50%" /></td></tr><tr>
-<td style="text-align: center;">vvvvvvvvvvvvvvvvvvvvvvvvvvvvv</td></tr></body></table>
+<td style="text-align: center;">Com o "HACS" instalado, vá em "Integrações".</td></tr></body></table>
 
 <table border="0"><body><tr>
 <td style="width: 50%;"><img src="/img/fig02.png" width="50%" /></td></tr><tr>
-<td style="text-align: center;">vvvvvvvvvvvvvvvvvvvvvvvvvvv</td></tr></body></table>
+<td style="text-align: center;">Procure a integração "Sonoff" e instale.</td></tr></body></table>
 
 <table border="0"><body><tr>
 <td style="width: 50%;"><img src="/img/fig03.png" width="50%" /></td></tr><tr>
-<td style="text-align: center;">Cvvvvvvvvvvvvvvvvvvvvvvvvvvvv</td></tr></body></table>
+<td style="text-align: center;">Uma vez instalado esta tela será apresentada.</td></tr></body></table>
 
 <table border="0"><body><tr>
 <td style="width: 50%;"><img src="/img/fig04.png" width="50%" /></td></tr><tr>
-<td style="text-align: center;">wwwwwweweeee</td></tr></body></table>
-
+<td style="text-align: center;">O proximo passo é ir em "Configurações" e "Dispositivos e Serviços".</td></tr></body></table>
 
 <table border="0"><body><tr>
 <td style="width: 50%;"><img src="/img/fig05.png" width="50%" /></td></tr><tr>
-<td style="text-align: center;">fhfhfhfhfhfh</td></tr></body></table>
-
+<td style="text-align: center;">Abra a Integração "Sonoff"</td></tr></body></table>
 
 <table border="0"><body><tr>
 <td style="width: 50%;"><img src="/img/fig06.png" width="50%" /></td></tr><tr>
 <td style="text-align: center;">Com o HACS instalado, vá em Integrações.</td></tr></body></table>
 
-
 <table border="0"><body><tr>
 <td style="width: 50%;"><img src="/img/fig07.png" width="50%" /></td></tr><tr>
 <td style="text-align: center;">Com o HACS instalado, vá em Integrações.</td></tr></body></table>
-
 
 <table border="0"><body><tr>
 <td style="width: 50%;"><img src="/img/fig08.png" width="50%" /></td></tr><tr>
