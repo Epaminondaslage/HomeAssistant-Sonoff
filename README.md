@@ -48,20 +48,12 @@ Essa flexibilidade e a ampla variedade de dispositivos Sonoff disponíveis torna
 <td style="text-align: center;">Com o HACS instalado, vá em Integrações.</td></tr></body></table>
 
 <table border="0"><body><tr>
-<td style="width: 50%;"><img src="/img/fig07.png" width="50%" /></td></tr><tr>
-<td style="text-align: center;">Com o HACS instalado, vá em Integrações.</td></tr></body></table>
+<td style="width: 50%;"><img src="/img/fig08.png" width="50%" /></td></tr><tr>
+<td style="text-align: center;">Depois de instalado entre com seu usuário e senha do ewelink.</td></tr></body></table>
 
 <table border="0"><body><tr>
-<td style="width: 50%;"><img src="/img/fig08.png" width="50%" /></td></tr><tr>
-<td style="text-align: center;">Depois de instalado entre ccom seu usuário e senha do ewelink</td></tr></body></table>
-
-sonoff:
-   username: seuemail@seueprovedor.com
-   password: suasenha
-
-*Sua senha do Ewelink não deve conter o caracter @
-
-
+<td style="width: 50%;"><img src="/img/fig07.png" width="50%" /></td></tr><tr>
+<td style="text-align: center;">Após confirmar todos os dispositivos cadastrados no ewelink irão aparecer no Home Assistant</td></tr></body></table>
 
 # Sites relacionados ao Home Assistant - Sonoff
 
