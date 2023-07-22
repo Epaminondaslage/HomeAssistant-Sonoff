@@ -61,8 +61,9 @@ Recentemente a Sonoff disponibilizou o modo DIY para os dispositivos se conectar
 
 # Sites relacionados ao Home Assistant - Sonoff
 
-* https://
-* https://
+* https://ewelink.cc/
+* https://ewelink.cc/ewelink-works-with-home-assistant/
+
 # Status do Projeto
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
