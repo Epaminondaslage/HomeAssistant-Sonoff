@@ -9,8 +9,6 @@
 
 # Introdução
 
-Recentemente a Sonoff disponibilizou o modo DIY para os dispositivos se conectarem ao home Assistan.  https://sonoff.tech/product-review/how-sonoff-works-with-home-assistant/ entretanto esta funcionalidade será utilizada em outro tutorial.
-
 Os dispositivos Sonoff são uma linha de produtos de automação residencial desenvolvidos pela ITEAD, uma empresa especializada em eletrônica e IoT. Esses dispositivos são baseados em microcontroladores e geralmente contêm módulos de comunicação sem fio, como Wi-Fi ou RF (Radiofrequência).
 
 Cada dispositivo Sonoff é projetado para executar funções específicas, como interruptores inteligentes, tomadas inteligentes, relés de potência, sensores de movimento, termostatos, lâmpadas inteligentes e muito mais. Eles são projetados para serem facilmente integrados em redes domésticas existentes, permitindo que os usuários controlem e monitorem remotamente seus dispositivos e eletrodomésticos conectados por meio de smartphones, tablets ou computadores.
@@ -45,7 +43,7 @@ Essa flexibilidade e a ampla variedade de dispositivos Sonoff disponíveis torna
 
 <table border="0"><body><tr>
 <td style="width: 50%;"><img src="/img/fig06.png" width="50%" /></td></tr><tr>
-<td style="text-align: center;">Com o HACS instalado, vá em Integrações.</td></tr></body></table>
+<td style="text-align: center;">Clicar em "Adicionar Entrada".</td></tr></body></table>
 
 <table border="0"><body><tr>
 <td style="width: 50%;"><img src="/img/fig08.png" width="50%" /></td></tr><tr>
@@ -54,6 +52,12 @@ Essa flexibilidade e a ampla variedade de dispositivos Sonoff disponíveis torna
 <table border="0"><body><tr>
 <td style="width: 50%;"><img src="/img/fig07.png" width="50%" /></td></tr><tr>
 <td style="text-align: center;">Após confirmar todos os dispositivos cadastrados no ewelink irão aparecer no Home Assistant</td></tr></body></table>
+
+<table border="0"><body><tr>
+<td style="width: 50%;"><img src="/img/fig09.png" width="50%" /></td></tr><tr>
+<td style="text-align: center;">Agora basta acrescentar os "Cards" conforme cada dispositivo.</td></tr></body></table>
+
+Recentemente a Sonoff disponibilizou o modo DIY para os dispositivos se conectarem ao home Assistant. Visite o site  https://sonoff.tech/product-review/how-sonoff-works-with-home-assistant/ para ver esta nova funcionalidade.
 
 # Sites relacionados ao Home Assistant - Sonoff
 
